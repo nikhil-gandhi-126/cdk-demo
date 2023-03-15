@@ -1,0 +1,5 @@
+{
+  "CdkLambdaStack": {
+    "bucketName": "acolyte-warriors"
+  }
+}
